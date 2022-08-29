@@ -25,6 +25,6 @@ I value keeping this site open source, but as you all know, plagiarism is bad. I
 
 So, feel free to fork this repo. If you do, please just give me proper credit by linking back to my website.
 
-##### Made with ❤ by <a href="https://github.com/Satoshideveloper">Satoshideveloper</a>
+##### Made with ❤ by <a href="https://github.com/SatoshiSaka">Satoshideveloper</a>
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/Satoshideveloper)
