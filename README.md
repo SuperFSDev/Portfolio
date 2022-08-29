@@ -3,7 +3,7 @@
 #### A clean, beautiful and fully responsive progressive web app based portfolio template for Developers! 
 ##### Optimized For Github Pages
 
-<img src="https://github.com/ishandeveloper/Portfolio/blob/master/screenshots/1.png?raw=false">
+<img src="https://https://github.com/SatoshiSaka/Portfolio/tree/master/screenshots/1.png?raw=false">
 
 <pre>P.S. This project is still in development phase.</pre>
 <pre><a href="https://ishandeveloper.com/Portfolio/">VIEW LIVE DEMO</a></pre>
